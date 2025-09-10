@@ -1,0 +1,17 @@
+.fullname {
+			font-style: italic;
+}
+
+figcaption 	{
+		padding: 10px;
+		margin: auto;
+		width: 100%;
+		text-align: center;
+		font-style: italic;
+}
+
+img	{
+		padding: 10px;
+		margin: auto;
+		width: 100%;
+}
